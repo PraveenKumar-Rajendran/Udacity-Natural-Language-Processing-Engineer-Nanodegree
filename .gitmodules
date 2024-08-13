@@ -1,0 +1,9 @@
+[submodule "P1-Part-of-Speech-Tagging"]
+	path = P1-Part-of-Speech-Tagging
+	url = https://github.com/PraveenKumar-Rajendran/Part-of-Speech-Tagging
+[submodule "P2-Neural-Machine-Translation"]
+	path = P2-Neural-Machine-Translation
+	url = https://github.com/PraveenKumar-Rajendran/Neural-Machine-Translation
+[submodule "P3-DNN-Speech-Recognizer"]
+	path = P3-DNN-Speech-Recognizer
+	url = https://github.com/PraveenKumar-Rajendran/DNN-Speech-Recognizer
